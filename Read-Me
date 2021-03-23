@@ -1,0 +1,4 @@
+A JDBC Database Web Application in which you can create new student and save its data into database.
+You can also update a record in case you need to change any detail for a specific student.
+You can delete a student’s detail. 
+The Application contain the features for CRUD operations using JSP and Servlets.
